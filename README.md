@@ -3,7 +3,7 @@
 Project Overview
 This project involves a comprehensive data analytics and business intelligence solution developed to analyze credit card customer behaviors, predict churn risks, and simulate revenue-generating strategies.
 
-Tech Stack & Tools
+🗝️Tech Stack & Tools
 * **Data Engineering & Cleaning:** Advanced Excel (Power Query logic, IF/IFS, XLOOKUP)
 * **Automation:** VBA Macros (One-click refresh & dynamic formatting)
 * **Data Visualization:** Excel Dashboards (Combo Charts, Stacked Bars) & Power BI (Phase 2)
